@@ -18,6 +18,7 @@ export class RegistrationComponent implements OnInit {
   firstName : string = "";
   lastName: string = "";
   phone: string = "";
+  email: string = "";
 
   displayedColumns: string[] = ['id', 'firstName', 'lastName', 'phone', 'actions'];
   dataSource = new MatTableDataSource(clientCollection);
