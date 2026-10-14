@@ -1,4 +1,4 @@
-package com.chubb.test.model.dtos;
+package com.softek.prueba.model.dtos;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.chubb.test.controller;
+package com.softek.prueba.controller;
 
 import java.util.List;
 
@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.chubb.test.model.dtos.ClientDto;
-import com.chubb.test.model.dtos.ServiceResponse;
-import com.chubb.test.service.IClientService;
+import com.softek.prueba.model.dtos.ClientDto;
+import com.softek.prueba.model.dtos.ServiceResponse;
+import com.softek.prueba.service.IClientService;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;

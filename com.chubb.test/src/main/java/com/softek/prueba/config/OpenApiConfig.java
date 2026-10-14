@@ -1,4 +1,4 @@
-package com.chubb.test.config;
+package com.softek.prueba.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

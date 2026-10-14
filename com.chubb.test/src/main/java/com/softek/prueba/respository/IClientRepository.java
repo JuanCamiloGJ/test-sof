@@ -1,8 +1,8 @@
-package com.chubb.test.respository;
+package com.softek.prueba.respository;
 
 import java.util.List;
 
-import com.chubb.test.model.Client;
+import com.softek.prueba.model.Client;
 
 public interface IClientRepository {
 

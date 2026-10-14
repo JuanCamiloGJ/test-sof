@@ -1,7 +1,7 @@
-package com.chubb.test.service;
+package com.softek.prueba.service;
 
 import java.util.List;
-import com.chubb.test.model.dtos.ClientDto;
+import com.softek.prueba.model.dtos.ClientDto;
 
 public interface IClientService {
 	List<ClientDto> findAll();

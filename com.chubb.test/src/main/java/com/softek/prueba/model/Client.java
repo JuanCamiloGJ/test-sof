@@ -1,4 +1,4 @@
-package com.chubb.test.model;
+package com.softek.prueba.model;
 
 import lombok.Data;
 

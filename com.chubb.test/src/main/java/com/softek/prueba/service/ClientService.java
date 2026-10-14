@@ -1,4 +1,4 @@
-package com.chubb.test.service;
+package com.softek.prueba.service;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,9 +6,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.chubb.test.model.Client;
-import com.chubb.test.model.dtos.ClientDto;
-import com.chubb.test.respository.IClientRepository;
+import com.softek.prueba.model.Client;
+import com.softek.prueba.model.dtos.ClientDto;
+import com.softek.prueba.respository.IClientRepository;
 
 @Service
 public class ClientService implements IClientService {

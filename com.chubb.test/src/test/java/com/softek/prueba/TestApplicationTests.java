@@ -1,4 +1,4 @@
-package com.chubb.test;
+package com.softek.prueba;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
